@@ -16,7 +16,6 @@ A web application that allows students to submit their units to teachers for the
 
 - [Table of Contents](#table-of-contents)
 - [Teacher Side](#teacher-side)
-  - [Teacher Login](#teacher-login)
   - [Unit Submissions](#unit-submissions)
   - [Unit Acceptance/Rejection](#unit-acceptancerejection)
 - [Student Side](#student-side)
@@ -32,11 +31,6 @@ A web application that allows students to submit their units to teachers for the
 ---
 
 ## Teacher Side
-
-### Teacher Login
-
-This page allows teachers to login:
-![Teacher Login](https://github.com/trackitward/.github/blob/main/profile/images/teacher_login.png)
 
 ### Unit Submissions
 
@@ -95,11 +89,11 @@ The "Student Login" and "Teacher Login" button on the top allows for students an
 
 Founders:
 
-- Christian Fernandes
-- Nolawi Teklehaimanot
-- Ryan Alumkal
-- Anthony Toyco
-- Josh Adolfo
+- [Christian Fernandes](https://github.com/5late)
+- [Nolawi Teklehaimanot](https://github.com/nolawiyonas1)
+- [Ryan Alumkal](https://github.com/ryanalumkal)
+- [Anthony Toyco](https://github.com/anthxnyy)
+- [Josh Adolfo](https://github.com/atlysj)
 
 ---
 

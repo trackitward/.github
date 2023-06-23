@@ -19,6 +19,7 @@ A web application that allows students to submit their units to teachers for the
 - [Teacher Side](#teacher-side)
   - [Teacher Login](#teacher-login)
   - [Unit Submissions](#unit-submissions)
+  - [Unit Acceptance/Rejection](#unit-acceptancerejection)
 - [Student Side](#student-side)
   - [Student Login](#student-login)
   - [The Unit Tracker](#the-unit-tracker)
@@ -41,7 +42,10 @@ This page allows teachers to login:
 
 ### Unit Submissions
 
+### Unit Acceptance/Rejection
 
+After inputting the unique key received from the student, the teacher can view all the information of the submission including student name, course code, section number, unit number, and the last date the student submitted a unit. The teacher can then accept or reject the unit submission using the checkmark or cross button respectively. 
+![Teacher Side Submission](https://github.com/trackitward/.github/blob/main/profile/images/teacher_side_before_submit.png)
 
 ---
 

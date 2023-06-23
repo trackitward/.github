@@ -44,21 +44,22 @@ A web application that allows students to submit their units to teachers for the
 
 ### Student Login
 
-When clicking "login" from the landing page, students are prompted to this:
+When clicking "login" from the landing page, students are prompted to this page:
 
 ![Login Page](https://github.com/trackitward/.github/blob/main/profile/images/login.png)
 
-Students can input their student number (Mary Ward student number) and password (students can choose their own password) in order to login to Trackit. 
+Students can input their student number (Mary Ward student number) and password (students can choose their password) to login to Trackit.
 
 ![Student Login](https://github.com/trackitward/.github/blob/main/profile/images/login%20page%20with%20creds.png)
 
 ### The Unit Tracker
 
-The main feature of the application, the unit tracker, is similar to the unit tracker found in the agenda. On the first column on the left, students can see the courses they are enrolled in. Each column afterwards is the units. Students can see the number of units they have completed in each course. 
+The main feature of the application, the unit tracker, is similar to the unit tracker found in the agenda. On the first column on the left, students can see the courses they are enrolled in. Each column afterwards are the units. Students can see the number of units they have completed in each course.
 
 ![Unit Tracker](https://github.com/trackitward/.github/blob/main/profile/images/unit%20tracker%20example.png)
 
 ### How to Generate a Unit Submission Code
+
 By clicking on the course and unit of choice, students will be prompted to the following:
 
 ![Unit Submission](https://github.com/trackitward/.github/blob/main/profile/images/unit%20submission%20example.png)
@@ -67,7 +68,7 @@ This page includes all the information of the unit submission including student 
 
 The number on the right is the submission number which should be given to the subject teacher.
 
-The submission number expires in 2 minutes and every code is unique and random for security reasons. 
+The submission number expires in 2 minutes and every code is unique and random for security reasons.
 
 ---
 
@@ -76,9 +77,10 @@ The submission number expires in 2 minutes and every code is unique and random f
 Picture of the landing page:
 ![Landing Page](https://github.com/trackitward/.github/blob/main/profile/images/trackit_website.png)
 
-The "Student Login" and "Teacher Login" button on the top allows for students and teachers to login to the application. 
+The "Student Login" and "Teacher Login" button on the top allows for students and teachers to log in to the application.
 
 Founders:
+
 - Christian Fernandes
 - Nolawi Teklehaimanot
 - Ryan Alumkal
@@ -102,7 +104,7 @@ Written in pure HTML/CSS/Javascript
 
 ### Back End
 
-The backend of the project is written in pure Golang. It provides a feature rich HTTP API to the frontend and handles all information going through the TrackIt app. There are many safety features built in, including rate limits to prevent the API from being attacked by large amounts of requests at a time.
+The backend of the project is written in pure Golang. It provides a feature-rich HTTP API to the front-end and handles all information going through the TrackIt app. There are many safety features built-in, including rate limits to prevent the API from being attacked by large amounts of requests at a time.
 
 - Click on the links below to go to important front-end files
   - []

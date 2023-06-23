@@ -17,6 +17,7 @@ A web application that allows students to submit their units to teachers for the
 
 - [Table of Contents](#table-of-contents)
 - [Teacher Side](#teacher-side)
+  - [Teacher Login](#teacher-login)
   - [How to Accept Units](#how-to-accept-units)
   - [How to Reject Units](#how-to-reject-units)
 - [Student Side](#student-side)
@@ -33,6 +34,11 @@ A web application that allows students to submit their units to teachers for the
 ---
 
 ## Teacher Side
+
+### Teacher Login
+
+This page allows teachers to login:
+![Teacher Login](https://github.com/trackitward/.github/blob/main/profile/images/teacher_login.png)
 
 ### How to Accept Units
 

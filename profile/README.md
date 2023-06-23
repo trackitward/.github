@@ -17,12 +17,13 @@ A web application that allows students to submit their units to teachers for the
 
 - [Table of Contents](#table-of-contents)
 - [Teacher Side](#teacher-side)
-  - [How to Login](#how-to-login)
-  - [The Unit Tracker](#the-unit-tracker)
-  - [How to Generate a Unit Submission Code](#how-to-generate-a-unit-submission-code)
-- [Student Side](#student-side)
+  - [Teacher Login](#teacher-login)
   - [How to Accept Units](#how-to-accept-units)
   - [How to Reject Units](#how-to-reject-units)
+- [Student Side](#student-side)
+  - [Student Login](#student-login)
+  - [The Unit Tracker](#the-unit-tracker)
+  - [How to Generate a Unit Submission Code](#how-to-generate-a-unit-submission-code)
 - [Landing Page](#landing-page)
 - [Code](#code)
   - [Front End](#front-end)
@@ -34,19 +35,29 @@ A web application that allows students to submit their units to teachers for the
 
 ## Teacher Side
 
-### How to Login
+### Teacher Login
 
-### The Unit Tracker
+### How to Accept Units
 
-### How to Generate a Unit Submission Code
+### How to Reject Units
 
 ---
 
 ## Student Side
 
-### How to Accept Units
+### Student Login
 
-### How to Reject Units
+![Login Page](https://github.com/trackitward/.github/blob/main/profile/images/login.png)
+
+![Student Login](https://github.com/trackitward/.github/blob/main/profile/images/login%20page%20with%20creds.png)
+
+### The Unit Tracker
+
+![Unit Tracker](https://github.com/trackitward/.github/blob/main/profile/images/unit%20tracker%20example.png)
+
+### How to Generate a Unit Submission Code
+
+![Unit Submission](https://github.com/trackitward/.github/blob/main/profile/images/unit%20submission%20example.png)
 
 ---
 

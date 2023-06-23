@@ -17,7 +17,6 @@ A web application that allows students to submit their units to teachers for the
 
 - [Table of Contents](#table-of-contents)
 - [Teacher Side](#teacher-side)
-  - [Teacher Login](#teacher-login)
   - [How to Accept Units](#how-to-accept-units)
   - [How to Reject Units](#how-to-reject-units)
 - [Student Side](#student-side)
@@ -34,8 +33,6 @@ A web application that allows students to submit their units to teachers for the
 ---
 
 ## Teacher Side
-
-### Teacher Login
 
 ### How to Accept Units
 
@@ -85,11 +82,10 @@ The submission number expires in 2 minutes and every code is unique and random f
 Written in pure HTML/CSS/Javascript
 
 - Click on the links below to go to important front-end files
-  - [Unit Tracker](https://github.com/trackitward/trackit-web/blob/main/box.html)
+  - [Unit Tracker](https://github.com/trackitward/trackit-web/blob/main/index.html)
+  - [Teacher Side](https://github.com/trackitward/trackit-web/blob/main/box.html)
   - [Student Login](https://github.com/trackitward/trackit-web/blob/main/student-login.html)
-  - [Teacher Login](https://github.com/trackitward/trackit-web/blob/main/teacher-login.html)
   - [Student Sign up](https://github.com/trackitward/trackit-web/blob/main/student-signup.html)
-  - [Teacher Sign up](https://github.com/trackitward/trackit-web/blob/main/teacher-signup.html)
   - [Landing Page](https://github.com/trackitward/trackit-web/blob/main/landing-page.html)
 
 ### Back End

@@ -1,37 +1,24 @@
-# Student Side
+# TrackIt
 
- <details>
+![TrackIt Logo](profile/images/TrackIt text copy.png)
 
-<summary>CLICK HERE TO READ DOCUMENTATION</summary>
+<!-- short description -->
 
-## How to login
+A web application that allows students to submit their units and teachers to accept or reject them
 
-## The Unit Tracker
+<!-- create a table of contents -->
 
-## How to generate a unit submission code
+## Table of Contents
 
-</details>
-
-
-# Teacher Side
-
- <details>
-
-<summary>CLICK HERE TO READ DOCUMENTATION</summary>
-
-## How to accept units
-
-## How to reject units
-
-## How to see the last submitted date
-
-</details>
-
-# Landing Page
 <details>
 
-## Founders
+<summary>IDK</summary>
 
-## Login
- 
+- [How to login](#how-to-login)
+- [The Unit Tracker](#the-unit-tracker)
+- [How to generate a unit submission code](#how-to-generate-a-unit-submission-code)
+- [Teacher Side](#teacher-side)
+  - [How to accept units](#how-to-accept-units)
+  - [How to reject units](#how-to-reject-units)
+
 </details>

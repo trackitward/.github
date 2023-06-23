@@ -29,13 +29,13 @@ A web application that allows students to submit their units to teachers for the
   - [Back End](#back-end)
 
 ---
+
 ## Demo Vids
 
 - [Unit Submission](https://www.youtube.com/watch?v=JQGNOvxq-Oc)
 - [Login](https://youtu.be/RDhnyY3XQtA)
 
 [Full Playlist](https://www.youtube.com/watch?v=JQGNOvxq-Oc&list=PLMC-dF2ZcOylxbD_KOiaubZW1Ez-QeVQq)
-
 
 ---
 
@@ -49,10 +49,9 @@ The following prompt allows teachers to input the unique code they receive from 
 Here is an example of a code:
 ![Unit Submission Full](https://github.com/trackitward/.github/blob/main/profile/images/submission_code_filled.png)
 
-
 ### Unit Acceptance/Rejection
 
-After inputting the unique code received from the student, the teacher can view all the information of the submission including student name, course code, section number, unit number, and the last date the student submitted a unit. The teacher can then accept or reject the unit submission using the checkmark or cross button respectively. 
+After inputting the unique code received from the student, the teacher can view all the information of the submission including student name, course code, section number, unit number, and the last date the student submitted a unit. The teacher can then accept or reject the unit submission using the checkmark or cross button respectively.
 ![Teacher Side Submission](https://github.com/trackitward/.github/blob/main/profile/images/teacher_side_before_submit.png)
 
 ---
@@ -113,9 +112,11 @@ Founders:
 Written in pure HTML/CSS/Javascript. Using Javascript allowed us to create HTTP requests to our API that would be able to show the data to the users in a easy to access way.
 
 - Click on the links below to go to important front-end files
+
   - [Unit Tracker](https://github.com/trackitward/trackit-web/blob/main/index.html)
 
     Unit tracker HTML
+
   - [Teacher Side](https://github.com/trackitward/trackit-web/blob/main/box.html)
 
     Teacher side view
@@ -137,9 +138,11 @@ Written in pure HTML/CSS/Javascript. Using Javascript allowed us to create HTTP 
 The backend of the project is written in pure Golang. It provides a feature-rich HTTP API to the front-end and handles all information going through the TrackIt app. There are many safety features built-in, including rate limits to prevent the API from being attacked by large amounts of requests at a time.
 
 - Click on the links below to go to important front-end files
+
   - [main.go](https://github.com/trackitward/trackit-core/blob/main/main.go)
 
     Control the main function of the API and route all the traffic through the correct endpoints
+
   - [unit-submission.go](https://github.com/trackitward/trackit-core/blob/main/unit-submission.go)
 
     Control the unit submission process by managing the user files

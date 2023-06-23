@@ -1,6 +1,6 @@
 # TrackIt
 
-![TrackIt Logo](profile/images/TrackIt text copy.png)
+![Trackit logo](https://github.com/trackitward/.github/blob/main/profile/images/TrackIt%20text%20copy.png )
 
 <!-- short description -->
 

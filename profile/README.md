@@ -12,8 +12,6 @@ A web application that allows students to submit their units to teachers for the
 
 ## Table of Contents
 
-<summary>Click to drop down</summary>
-
 - [Table of Contents](#table-of-contents)
 - [Demo Vids](#demo-vids)
 - [Teacher Side](#teacher-side)

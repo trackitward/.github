@@ -42,9 +42,16 @@ This page allows teachers to login:
 
 ### Unit Submissions
 
+The following prompt allows teachers to input the unique code they receive from students.
+![Unit Submission Empty](https://github.com/trackitward/.github/blob/main/profile/images/submission_code_empty.png)
+
+Here is an example of a code:
+![Unit Submission Full](https://github.com/trackitward/.github/blob/main/profile/images/submission_code_filled.png)
+
+
 ### Unit Acceptance/Rejection
 
-After inputting the unique key received from the student, the teacher can view all the information of the submission including student name, course code, section number, unit number, and the last date the student submitted a unit. The teacher can then accept or reject the unit submission using the checkmark or cross button respectively. 
+After inputting the unique code received from the student, the teacher can view all the information of the submission including student name, course code, section number, unit number, and the last date the student submitted a unit. The teacher can then accept or reject the unit submission using the checkmark or cross button respectively. 
 ![Teacher Side Submission](https://github.com/trackitward/.github/blob/main/profile/images/teacher_side_before_submit.png)
 
 ---

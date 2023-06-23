@@ -56,8 +56,13 @@ A web application that allows students to submit their units to teachers for the
 ![Unit Tracker](https://github.com/trackitward/.github/blob/main/profile/images/unit%20tracker%20example.png)
 
 ### How to Generate a Unit Submission Code
+By clicking on the course and unit of choice, students will be prompted to the following:
 
 ![Unit Submission](https://github.com/trackitward/.github/blob/main/profile/images/unit%20submission%20example.png)
+
+This page includes all the information of the unit submission including student name, course code, section number, unit number, and last date of submission (note: last submission date is not shown for this example as no other units were submitted).
+
+The number on the right is the submission number which should be given to the subject teacher.
 
 ---
 

@@ -31,10 +31,10 @@ A web application that allows students to submit their units to teachers for the
 ---
 ## Demo Vids
 
-- [Full Playlist](https://www.youtube.com/watch?v=JQGNOvxq-Oc&list=PLMC-dF2ZcOylxbD_KOiaubZW1Ez-QeVQq)
-
 - [Unit Submission](https://www.youtube.com/watch?v=JQGNOvxq-Oc)
 - [Login](https://youtu.be/RDhnyY3XQtA)
+
+[Full Playlist](https://www.youtube.com/watch?v=JQGNOvxq-Oc&list=PLMC-dF2ZcOylxbD_KOiaubZW1Ez-QeVQq)
 
 
 ---

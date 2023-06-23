@@ -73,6 +73,18 @@ The submission number expires in 2 minutes and every code is unique and random f
 
 ## Landing Page
 
+Picture of the landing page:
+![Landing Page](https://github.com/trackitward/.github/blob/main/profile/images/trackit_website.png)
+
+The "Student Login" and "Teacher Login" button on the top allows for students and teachers to login to the application. 
+
+Founders:
+- Christian Fernandes
+- Nolawi Teklehaimanot
+- Ryan Alumkal
+- Anthony Toyco
+- Josh Adolfo
+
 ---
 
 ## Code

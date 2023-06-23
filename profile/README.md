@@ -12,8 +12,7 @@ A web application that allows students to submit their units to teachers for the
 
 ## Table of Contents
 
-<details>
-  <summary>Click to drop down</summary>
+<summary>Click to drop down</summary>
 
 - [Table of Contents](#table-of-contents)
 - [Teacher Side](#teacher-side)
@@ -29,7 +28,6 @@ A web application that allows students to submit their units to teachers for the
   - [Front End](#front-end)
   - [Back End](#back-end)
 
-</details>
 
 ---
 

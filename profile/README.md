@@ -101,7 +101,7 @@ Founders:
 
 ### Front End
 
-Written in pure HTML/CSS/Javascript
+Written in pure HTML/CSS/Javascript. Using Javascript allowed us to create HTTP requests to our API that would be able to show the data to the users in a easy to access way.
 
 - Click on the links below to go to important front-end files
   - [Unit Tracker](https://github.com/trackitward/trackit-web/blob/main/index.html)
@@ -142,5 +142,9 @@ The backend of the project is written in pure Golang. It provides a feature-rich
   - [student.go](https://github.com/trackitward/trackit-core/blob/main/student.go)
 
     Control student files and manage their profile and units files
+
+  The backend stores information in JSON files saved with unique file names. The benefit to this way of doing storage is that it allows for the data to easily be written and read from the API. As well, it makes it easy to parse and pass over through the internet.
+
+  Passwords for each user are HASHED and SALTED using a well known encryption algorithm known as bcrypt. This means that the users password is never logged in plain text, which highly increseas security as the files containing passwords have extra protection.
 
 ---

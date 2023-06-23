@@ -47,11 +47,17 @@ A web application that allows students to submit their units to teachers for the
 
 ### Student Login
 
+When clicking "login" from the landing page, students are prompted to this:
+
 ![Login Page](https://github.com/trackitward/.github/blob/main/profile/images/login.png)
+
+Students can input their student number (Mary Ward student number) and password (students can choose their own password) in order to login to Trackit. 
 
 ![Student Login](https://github.com/trackitward/.github/blob/main/profile/images/login%20page%20with%20creds.png)
 
 ### The Unit Tracker
+
+The main feature of the application, the unit tracker, is similar to the unit tracker found in the agenda. On the first column on the left, students can see the courses they are enrolled in. Each column afterwards is the units. Students can see the number of units they have completed in each course. 
 
 ![Unit Tracker](https://github.com/trackitward/.github/blob/main/profile/images/unit%20tracker%20example.png)
 
@@ -63,6 +69,8 @@ By clicking on the course and unit of choice, students will be prompted to the f
 This page includes all the information of the unit submission including student name, course code, section number, unit number, and last date of submission (note: last submission date is not shown for this example as no other units were submitted).
 
 The number on the right is the submission number which should be given to the subject teacher.
+
+The submission number expires in 2 minutes and every code is unique and random for security reasons. 
 
 ---
 
